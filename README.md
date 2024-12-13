@@ -30,3 +30,18 @@ Spotify tracks, so using the Hitster app to
 scan the QR codes will not work. Instead, use 
 an app that plays songs on Spotify by scanning 
 a QR code (to be released).
+
+**Example Output**
+
+This is what the output of the notebook should look like.
+
+*Front sides*:
+
+![front sides](https://github.com/felix-olivier/robster/blob/863ca2c6821e434dd542203beb311cf0220a45f9/example_outputs/front.png
+)
+
+
+*Back sides*:
+
+![back sides](https://github.com/felix-olivier/robster/blob/863ca2c6821e434dd542203beb311cf0220a45f9/example_outputs/back.png
+)
