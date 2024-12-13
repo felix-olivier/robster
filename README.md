@@ -29,7 +29,7 @@ interesting.
 Spotify tracks, so using the Hitster app to 
 scan the QR codes will not work. Instead, use 
 an app that plays songs on Spotify by scanning 
-a QR code (to be released).
+a QR code (for instance using [this app](https://github.com/felix-olivier/spootify/tree/master)).
 
 **Example Output**
 
